@@ -1,0 +1,16 @@
+{
+  "version": "2.0",
+  "accounts": [
+    {
+      "id": "example-account-uuid-01",
+      "email": "user1@example.com",
+      "name": "Conta Exemplo 1",
+      "disabled": false,
+      "proxy_disabled": false,
+      "created_at": 1780000000,
+      "last_used": 1780000000
+    }
+  ],
+  "current_account_id": "example-account-uuid-01",
+  "current_target_ide": null
+}
